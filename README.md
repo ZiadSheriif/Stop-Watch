@@ -25,10 +25,6 @@ Embedded System Application using External Interrupt, Timer, and 7-Segment Based
 ```
 git clone https://github.com/ZiadSheriif/Stop-Watch.git 
 ```
-
-```
-download https://avr-eclipse.sourceforge.net/wiki/index.php/Plugin_Download
-```
 ### Executing program
 
 ```
